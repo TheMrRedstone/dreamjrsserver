@@ -1,0 +1,69 @@
+2021-12-05 17:21:08.165 [main] INFO  - Loading §anukkit.yml§f ...
+2021-12-05 17:21:08.353 [main] INFO  - Loading §aserver.properties§f ...
+2021-12-05 17:21:08.368 [main] INFO  - Selected English (eng) as the base language
+2021-12-05 17:21:08.368 [main] INFO  - Starting Minecraft: BE server version §bv1.17.0§r
+2021-12-05 17:21:08.384 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2021-12-05 17:21:08.399 [main] INFO  - Opening server on 0.0.0.0:19132
+2021-12-05 17:21:08.493 [main] INFO  - This server is running Nukkit version §e1.5.1.0-PN (git-365cca6)§f "§bPowerNukkit§f" (API 1.0.13)
+2021-12-05 17:21:08.493 [main] INFO  - Nukkit is distributed under the GPL License
+2021-12-05 17:21:11.026 [main] INFO  - Loading recipes...
+2021-12-05 17:21:11.901 [main] INFO  - Loaded 1520 recipes.
+2021-12-05 17:21:11.901 [main] INFO  - Successfully loaded 0 resource packs
+2021-12-05 17:21:12.619 [main] INFO  - Enabling PowerNukkit v1.5.1.0-PN
+2021-12-05 17:21:12.666 [main] INFO  - Preparing level "§aworld§f"
+2021-12-05 17:21:12.682 [main] INFO  - Preparing start region for level "world"
+2021-12-05 17:21:12.822 [main] INFO  - Preparing level "§anether§f"
+2021-12-05 17:21:12.822 [main] INFO  - Preparing start region for level "nether"
+2021-12-05 17:21:12.916 [main] INFO  - Starting GS4 status listener
+2021-12-05 17:21:12.916 [main] INFO  - Setting query port to 19132
+2021-12-05 17:21:12.916 [main] INFO  - Query is running on 0.0.0.0:19132
+2021-12-05 17:21:12.916 [main] INFO  - Default game type: Survival Mode
+2021-12-05 17:21:12.916 [main] INFO  - Done (4.876s)! For help, type "help" or "?"
+2021-12-05 17:21:15.618 [main] INFO  - --- Showing help page 1 of 1 (/help <page>) ---
+2021-12-05 17:21:15.618 [main] INFO  - §2/ban: §fPrevents the specified player from using this server
+2021-12-05 17:21:15.618 [main] INFO  - §2/ban-ip: §fPrevents the specified IP address from using this server
+2021-12-05 17:21:15.618 [main] INFO  - §2/banlist: §fView all players banned from this server
+2021-12-05 17:21:15.618 [main] INFO  - §2/debugpaste: §fUploads server information to Hastebin
+2021-12-05 17:21:15.618 [main] INFO  - §2/defaultgamemode: §fSet the default gamemode
+2021-12-05 17:21:15.618 [main] INFO  - §2/deop: §fTakes the specified player's operator status
+2021-12-05 17:21:15.618 [main] INFO  - §2/difficulty: §fSets the game difficulty
+2021-12-05 17:21:15.618 [main] INFO  - §2/effect: §fAdds/Removes effects on players
+2021-12-05 17:21:15.618 [main] INFO  - §2/enchant: §fAdds enchantments on items
+2021-12-05 17:21:15.618 [main] INFO  - §2/gamemode: §fChanges the player to a specific game mode
+2021-12-05 17:21:15.618 [main] INFO  - §2/gamerule: §fSets or queries a game rule value
+2021-12-05 17:21:15.633 [main] INFO  - §2/gc: §fFires garbage collection tasks
+2021-12-05 17:21:15.633 [main] INFO  - §2/give: §fGives the specified player a certain amount of items
+2021-12-05 17:21:15.633 [main] INFO  - §2/help: §fShows the help menu
+2021-12-05 17:21:15.633 [main] INFO  - §2/kick: §fRemoves the specified player from the server
+2021-12-05 17:21:15.633 [main] INFO  - §2/kill: §fCommit suicide or kill other players
+2021-12-05 17:21:15.633 [main] INFO  - §2/list: §fLists all online players
+2021-12-05 17:21:15.633 [main] INFO  - §2/me: §fPerforms the specified action in chat
+2021-12-05 17:21:15.649 [main] INFO  - §2/op: §fGives the specified player operator status
+2021-12-05 17:21:15.649 [main] INFO  - §2/pardon: §fAllows the specified player to use this server
+2021-12-05 17:21:15.649 [main] INFO  - §2/pardon-ip: §fAllows the specified IP address to use this server
+2021-12-05 17:21:15.649 [main] INFO  - §2/particle: §fAdds particles to a world
+2021-12-05 17:21:15.649 [main] INFO  - §2/plugins: §fGets a list of plugins running on the server
+2021-12-05 17:21:15.649 [main] INFO  - §2/reload: §fReloads the server configuration and plugins
+2021-12-05 17:21:15.649 [main] INFO  - §2/save-all: §fSaves the server to disk
+2021-12-05 17:21:15.665 [main] INFO  - §2/save-off: §fDisables server autosaving
+2021-12-05 17:21:15.665 [main] INFO  - §2/save-on: §fEnables server autosaving
+2021-12-05 17:21:15.665 [main] INFO  - §2/say: §fBroadcasts the given message as the sender
+2021-12-05 17:21:15.665 [main] INFO  - §2/seed: §fShows the world seed
+2021-12-05 17:21:15.665 [main] INFO  - §2/setblock: §fChanges a block to another block.
+2021-12-05 17:21:15.665 [main] INFO  - §2/setworldspawn: §fSets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-12-05 17:21:15.665 [main] INFO  - §2/spawnpoint: §fSets a player's spawn point
+2021-12-05 17:21:15.665 [main] INFO  - §2/status: §fReads back the server's performance.
+2021-12-05 17:21:15.680 [main] INFO  - §2/stop: §fStops the server
+2021-12-05 17:21:15.680 [main] INFO  - §2/tell: §fSends a private message to the given player
+2021-12-05 17:21:15.680 [main] INFO  - §2/time: §fChanges the time on each world
+2021-12-05 17:21:15.680 [main] INFO  - §2/timings: §fRecords timings to see performance of the server.
+2021-12-05 17:21:15.680 [main] INFO  - §2/title: §fSends a title to the specified player or modifies title settings for that player
+2021-12-05 17:21:15.680 [main] INFO  - §2/tp: §fTeleports the given player (or yourself) to another player or coordinates
+2021-12-05 17:21:15.696 [main] INFO  - §2/version: §fGets the version of this server including any plugins in use
+2021-12-05 17:21:15.696 [main] INFO  - §2/weather: §fSets the weather in current world
+2021-12-05 17:21:15.696 [main] INFO  - §2/whitelist: §fManages the list of players allowed to use this server
+2021-12-05 17:21:15.696 [main] INFO  - §2/xp: §fGives the specified player a certain amount of experience
+2021-12-05 17:21:18.217 [main] INFO  - [CONSOLE: Stopping the server]
+2021-12-05 17:21:18.280 [main] INFO  - Unloading level "§aworld§f"
+2021-12-05 17:21:18.421 [main] INFO  - Unloading level "§anether§f"
+2021-12-05 17:21:18.499 [main] INFO  - Stopping other threads
